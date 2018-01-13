@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slender.Plugins", "Slender.Plugins.csproj", "{B2A30D2D-AE4E-4FCC-3909-D27BA4DFE6BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slender", "Slender.csproj", "{13A45740-729F-D927-D064-1E7F1A574FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slender.Editor.Plugins", "Slender.Editor.Plugins.csproj", "{7ED33AC2-4ABB-FA95-F7DA-19D9AAFF4FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A30D2D-AE4E-4FCC-3909-D27BA4DFE6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A30D2D-AE4E-4FCC-3909-D27BA4DFE6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A30D2D-AE4E-4FCC-3909-D27BA4DFE6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A30D2D-AE4E-4FCC-3909-D27BA4DFE6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A45740-729F-D927-D064-1E7F1A574FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A45740-729F-D927-D064-1E7F1A574FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A45740-729F-D927-D064-1E7F1A574FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A45740-729F-D927-D064-1E7F1A574FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED33AC2-4ABB-FA95-F7DA-19D9AAFF4FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED33AC2-4ABB-FA95-F7DA-19D9AAFF4FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED33AC2-4ABB-FA95-F7DA-19D9AAFF4FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED33AC2-4ABB-FA95-F7DA-19D9AAFF4FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

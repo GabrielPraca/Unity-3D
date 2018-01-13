@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hunter.Plugins", "Hunter.Plugins.csproj", "{96EDFE50-6337-6E28-7868-A68E41118E31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hunter", "Hunter.csproj", "{DEA3C432-5046-BF52-736F-4AF6735CB4A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hunter.Editor.Plugins", "Hunter.Editor.Plugins.csproj", "{52C60ADB-6147-22A8-1972-008BFB3C4D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96EDFE50-6337-6E28-7868-A68E41118E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EDFE50-6337-6E28-7868-A68E41118E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EDFE50-6337-6E28-7868-A68E41118E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EDFE50-6337-6E28-7868-A68E41118E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA3C432-5046-BF52-736F-4AF6735CB4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA3C432-5046-BF52-736F-4AF6735CB4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA3C432-5046-BF52-736F-4AF6735CB4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA3C432-5046-BF52-736F-4AF6735CB4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C60ADB-6147-22A8-1972-008BFB3C4D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C60ADB-6147-22A8-1972-008BFB3C4D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C60ADB-6147-22A8-1972-008BFB3C4D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C60ADB-6147-22A8-1972-008BFB3C4D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
